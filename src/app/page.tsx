@@ -206,8 +206,8 @@ export default function Page() {
             {RESUME_DATA.publications.map((publication) => {
               return (
                 <PublicationCard
-                  author={publication.author}
                   key={publication.title}
+                  author={publication.author}
                   title={publication.title}
                   conference={"conference" in publication ? publication.conference: undefined}
                   journal={"journal" in publication ? publication.journal: undefined}

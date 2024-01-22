@@ -8,9 +8,17 @@ import {
 import { Badge } from "./ui/badge";
 
 interface Props {
+  author:readonly any[];
+  conference?:string;
+  journal?:string;
+  month:string;
+  address?:string;
+  vol?:string;
+  year:string;
+  pages:string;
+  code?:string;
+  preprint?:string;
   title: string;
-  description: string;
-  tags: readonly string[];
   link?: string;
   arxiv?: string;
 }
