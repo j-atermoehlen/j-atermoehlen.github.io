@@ -10,9 +10,9 @@ export const RESUME_DATA = {
   summary:
     "PhD Student in electrical engineering at the Institute for Communications Technology (TU Braunschweig), specalizing in machine learning for computer vision. My main research interests lie in deep learning methods for unsupervised domain adaptation, continual domain adaptation, and domain generalization, with the goal to bridge the domain gap between synthetic and real data for neural network training and inference.",
   avatarUrl: "https://i1.rgstatic.net/ii/profile.image/11431281211951208-1702544701440_Q512/Jan-Aike-Termoehlen.jpg",
-  personalWebsiteUrl: "https://termoehlen.net",
+  personalWebsiteUrl: "https://www.jan-aike.de",
   contact: {
-    email: "j.termoehlen@tu-bs.de",
+    email: "j-a@termoehlen.info",
     tel: "",
     social: [
       {
