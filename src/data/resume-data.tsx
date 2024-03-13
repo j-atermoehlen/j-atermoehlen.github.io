@@ -263,7 +263,7 @@ export const RESUME_DATA = {
       year      : "2020",
       pages     : "44–49",
       arxiv     : "",
-      code      : "https://l3pilot.eu/data/opendd"
+      code      : "https://l3pilot.eu/data/opendd.html"
     },
     {
       key:"05",
